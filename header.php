@@ -7,6 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
+    
      <nav class="flex justify-between items-center py-3 px-20 bg-gray-100 text-blue-800">
         <img src="https://nepalserofero.com/images/logo/logo.png" alt="logo" class="h-12">
         <div class="flex gap-4">
